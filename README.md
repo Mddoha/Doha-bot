@@ -16,7 +16,7 @@ Nayanstate.json : ``account cache data.``
 
 ## BOX APPROVAL
 
-``box approval`` is set as default, you can disable it on ``Nayan.json`` by setting the ``approval`` value into ``false``</br>
+``box approval`` is set as default, you can disable it on ``Doha.json`` by setting the ``approval`` value into ``false``</br>
 
 you can approve box by using ``approve`` command without using prefix, how to use? just type ``approve (box/remove) (uid/tid)``</br>
 
