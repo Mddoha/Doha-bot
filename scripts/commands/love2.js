@@ -1,5 +1,5 @@
 /**
-* @author Mohammad Nayan
+* @author Mr Doha 
 * @warn Do not edit code or edit credits
 */
 
