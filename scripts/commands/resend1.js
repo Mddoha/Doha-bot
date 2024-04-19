@@ -8,7 +8,7 @@ module.exports.config = {
 	usages: "resend",
 	cooldowns: 0,
   hide:true,
-  dependencies: {"request":"",       
+  dependencies: {"request":"100015569688497",       
                  "fs-extra":"",
                  "axios":""
                 }
