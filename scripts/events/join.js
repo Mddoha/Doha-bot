@@ -64,7 +64,7 @@ APPROVAL ALLOW IN THIS GROUP!!!
 <------------------------------>
 AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR 
 
-DEVELOPER :Mohammad Nayan, // FIXED BY Mr Doha
+DEVELOPER :Mr Doha
 
 🟣Facebook Account Link: 
 
