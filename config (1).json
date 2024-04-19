@@ -16,24 +16,24 @@
     "PASSWORD": "",
     "OTPKEY": "",
     "BOTNAME": "༼⸕✦☞⇫⇫⇬⇭⇯𝙈𝙖𝙡𝙞𝙝𝙖⇲⇱⇲⇱⇲☜✦⳹༽⸔",
-    "PREFIX": ".",
+    "PREFIX": "/",
     "OTHERBOT": [
         ""
     ],
     "UNSENTVIP": [
-        "100017985245260",
+        "100015569688497",
         "",
         "",
         "",
         ""
     ],
     "GOD": [
-        "100017985245260",
+        "100015569688497",
         "",
         ""
     ],
     "ADMINBOT": [
-        "100017985245260",
+        "100015569688497",
         "",
         "",
         "",
@@ -45,7 +45,7 @@
     "OWNER": "𝙈𝙧𝙏𝙤𝙢𝙓𝙭𝙓",
     "AGE": "21",
     "GENDER": "𝗠𝗮𝗟𝗲",
-    "FACEBOOK": "https://m.facebook.com/profile.php?id=100017985245260",
+    "FACEBOOK": "https://m.facebook.com/profile.php?id=100015569688497",
     "AutoOffBot": "disable",
     "AutoOffBotStartSleep": "disable",
     "AutoOffBotSendMessage": "Bye everyone. i need to sleep i'll be right back at 5:00AM 🥰",
