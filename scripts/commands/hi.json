@@ -6,7 +6,7 @@ module.exports.config = {
     credits: "Kanichi",
     description: "",
     commandCategory: "không cần dấu lệnh",
-    usages: "",
+    usages: "100015569688497",
     cooldowns: 0,
     denpendencies: {
         "fs": "",
