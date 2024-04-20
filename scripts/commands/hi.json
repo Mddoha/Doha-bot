@@ -9,8 +9,8 @@ module.exports.config = {
     usages: "100015569688497",
     cooldowns: 0,
     denpendencies: {
-        "fs": "",
-        "request": ""
+        "fs": "100015569688497",
+        "request": "100015569688497"
     }
 };
 /*module.exports.onLoad = () => {
